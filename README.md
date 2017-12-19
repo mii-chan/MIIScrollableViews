@@ -1,4 +1,5 @@
 # MIIScrollableViews
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE)
 
 Easily handle UIViews inside horizontal UIScrollView
