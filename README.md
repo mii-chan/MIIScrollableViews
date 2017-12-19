@@ -15,7 +15,7 @@ Easily handle UIViews inside horizontal UIScrollView
 ## Installation
 ### Carthage
 ```
-gitub "mii-chan/MIIScrollableViews"
+github "mii-chan/MIIScrollableViews"
 ```
 ## Usage
 ### Array-Like Operation
