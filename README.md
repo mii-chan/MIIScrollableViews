@@ -4,6 +4,8 @@
 
 Easily handle UIViews inside horizontal UIScrollView
 
+![MIIScrollableViews Demo](https://github.com/mii-chan/MIIScrollableViews/blob/media/demo.gif)
+
 ## About
 `MIIScrollableViews` makes it much easier to manage and add gestures to UIViews inside UIScrollView. 
 
