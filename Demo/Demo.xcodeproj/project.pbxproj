@@ -12,7 +12,7 @@
 		C10A56D41FE76B0600BC6846 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C10A56D21FE76B0600BC6846 /* Main.storyboard */; };
 		C10A56D61FE76B0600BC6846 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C10A56D51FE76B0600BC6846 /* Assets.xcassets */; };
 		C10A56D91FE76B0600BC6846 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C10A56D71FE76B0600BC6846 /* LaunchScreen.storyboard */; };
-		C1954B741FE7BB52002C73F7 /* MIIScrollableViews.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1954B751FE7BB52002C73F7 /* MIIScrollableViews.framework */; };
+		C1D5F1221FEAA0AE00A3BD2C /* MIIScrollableViews.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1D5F1231FEAA0AE00A3BD2C /* MIIScrollableViews.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,8 +23,7 @@
 		C10A56D51FE76B0600BC6846 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C10A56D81FE76B0600BC6846 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C10A56DA1FE76B0600BC6846 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C158E5D91FE774EE00E8C4FC /* ScrollableViews.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = ScrollableViews.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C1954B751FE7BB52002C73F7 /* MIIScrollableViews.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MIIScrollableViews.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C1D5F1231FEAA0AE00A3BD2C /* MIIScrollableViews.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MIIScrollableViews.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,7 +31,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1954B741FE7BB52002C73F7 /* MIIScrollableViews.framework in Frameworks */,
+				C1D5F1221FEAA0AE00A3BD2C /* MIIScrollableViews.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,8 +71,7 @@
 		C158E5D71FE774EE00E8C4FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C1954B751FE7BB52002C73F7 /* MIIScrollableViews.framework */,
-				C158E5D91FE774EE00E8C4FC /* ScrollableViews.framework */,
+				C1D5F1231FEAA0AE00A3BD2C /* MIIScrollableViews.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
