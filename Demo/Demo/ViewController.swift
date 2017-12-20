@@ -27,6 +27,8 @@ class ViewController: UIViewController {
     }
     
     override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
         // Add Initial Image
         scrollableViews.append(generateRandomImageView())
     }
