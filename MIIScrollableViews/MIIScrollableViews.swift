@@ -373,7 +373,7 @@ open class MIIScrollableViews: UIScrollView {
     
     public func move(to view: UIView) {
         if let index = views.index(of: view) {
-            self.setContentOffset(CGPoint(x: self.frame.width * CGFloat(index), y: 0), animated: animated)
+            self.setContentOffset(CGPoint(x: self.frame.width * CGFloat(index), y: self.bounds.origin.y), animated: animated)
         }
     }
 }
