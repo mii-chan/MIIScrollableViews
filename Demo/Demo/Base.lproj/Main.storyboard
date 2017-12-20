@@ -52,7 +52,7 @@
                                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Upg-Br-LeX" customClass="MIIScrollableViews" customModule="MIIScrollableViews">
                                                 <rect key="frame" x="0.0" y="0.0" width="343" height="257"/>
                                             </scrollView>
-                                            <view alpha="0.69999999999999996" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zW9-8h-gZI">
+                                            <view userInteractionEnabled="NO" alpha="0.69999999999999996" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zW9-8h-gZI">
                                                 <rect key="frame" x="165.5" y="248.5" width="12" height="1"/>
                                                 <color key="backgroundColor" red="0.47362029552459717" green="0.33346366882324219" blue="0.28162482380867004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
@@ -64,7 +64,7 @@
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                             </view>
-                                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" hidesForSinglePage="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Mcx-vV-Fxy">
+                                            <pageControl opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" hidesForSinglePage="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Mcx-vV-Fxy">
                                                 <rect key="frame" x="171.5" y="249" width="0.0" height="0.0"/>
                                             </pageControl>
                                         </subviews>
