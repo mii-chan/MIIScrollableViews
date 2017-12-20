@@ -1,6 +1,6 @@
 //
-//  MIIMIIScrollableViews.swift
-//  MIIMIIScrollableViews
+//  MIIScrollableViews.swift
+//  MIIScrollableViews
 //
 //  Created by Miida Yuki on 2017/12/18.
 //
