@@ -7,7 +7,9 @@ Easily handle UIViews inside horizontal UIScrollView
 ![MIIScrollableViews Demo](https://github.com/mii-chan/MIIScrollableViews/blob/media/demo.gif)
 
 ## About
-`MIIScrollableViews` makes it much easier to manage and add gestures to UIViews inside UIScrollView. 
+`MIIScrollableViews` makes it much easier to manage UIViews in UIScrollView. Also supports various types of gestures (Tap, Double Tap, Pan, Pinch and Long Press).
+
+(* If you are using RxSwift, please check [RxMIIScrollableViews](https://github.com/mii-chan/RxMIIScrollableViews) as well)
 
 ## Requirements
 * iOS 8.0+
